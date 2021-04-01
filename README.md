@@ -25,4 +25,4 @@
 ### Contribution
 In this project there is no other member who has contributed. I have written the entire project scripts. 
 
-#### further queries you can ping me message to my instagram , i'll solve your issue
+### further queries you can ping me message to my instagram , i'll solve your issue
